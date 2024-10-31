@@ -1,0 +1,13 @@
+.services{
+   text-align: center;
+}
+.service{
+    float:left;
+    width:33.3333%;
+    text-align: center;
+    
+}
+i{
+    background-color: yellow;
+    font-size: 50px;
+}
